@@ -8,6 +8,6 @@ React
 
 TailwindCSS
 
-# Visit Website
+# Visit Website:
 
 [Github Finder - Live](https://github-finder-ndoqzt4he-wojtalewski.vercel.app/)
